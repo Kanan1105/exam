@@ -1,2 +1,5 @@
-b
+modified this is b
+<<<<<<< HEAD
 
+=======
+>>>>>>> car
